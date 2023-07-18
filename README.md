@@ -15,7 +15,11 @@ installed 부분을 눌러 설치 <br>
 ![image](https://github.com/gkstmdrb/Eclipsejavafx/assets/114748816/e5066222-5983-475d-bca9-0775eca613ea) <br>
 [Select All] 버튼을 눌러 위 항목을 체크 후 [Accept selected]를 누른다. <br><br>
 
-설치가 끝나면 재시작 버튼을 누른다.
+설치가 끝나면 재시작 버튼을 누른다. <br><br><br>
+
+## jdk 다운로드
+https://openjfx.io/
+<br><br><br>
 
 ## javafx 프로젝트 만들기
 [File] -> [New] -> [Other] <br>
